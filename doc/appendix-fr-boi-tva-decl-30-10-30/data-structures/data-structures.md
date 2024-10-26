@@ -19,7 +19,7 @@ This table describes additional fields of the Receipt Response applicable to the
 
 ### Charge Items Entry
 
-Charge Items entriy is defined accordingly to the French law. This entry determines which counter will be used to sum up the value of the sales tax field (normal, discounted-1, discounted-2, zero or special) for the individual services. It is required for signature creation.
+Charge Items entry is defined accordingly to the French law. This entry determines which counter will be used to sum up the value of the sales tax field (normal, discounted-1, discounted-2, zero or special) for the individual services. It is required for signature creation.
 
 This table describes additional fields of the Charge Items Entry applicable to the French market.
 

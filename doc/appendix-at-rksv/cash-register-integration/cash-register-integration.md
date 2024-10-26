@@ -120,7 +120,7 @@ https://www.bmf.gv.at/services/apps.html
 
 ### Receipt structure
 
-This chapter describes the receipt structure applicable ot the Austrian market.
+This chapter describes the receipt structure applicable to the Austrian market.
 
 ![](./images/20.png)
 

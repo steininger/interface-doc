@@ -46,7 +46,7 @@ some code
 <span id="l-example-for-an-anchor-on-a-codelisting-43">Example for an anchor on a codelisting</span>
 ````
 
-You can referencte an anchored item like this: `[Reference Text](#anchor-name)`.
+You can reference an anchored item like this: `[Reference Text](#anchor-name)`.
 
 You can also reference anchors in other files like this:
 ```
@@ -72,7 +72,7 @@ usage:
 ```
 markdown-link-check ./general/general.md
 ```
-> Please note thst this tool does not find dead references inside a file. Only dead references to nonexisting files / unreachable urls.
+> Please note that this tool does not find dead references inside a file. Only dead references to nonexisting files / unreachable urls.
 
 #### PlantUML
 - This documentation supports the PlantUML notation, which will be converted to SVG images and embedded into the PDF during the build.
