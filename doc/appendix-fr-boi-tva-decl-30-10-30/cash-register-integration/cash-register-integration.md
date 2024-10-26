@@ -69,7 +69,7 @@ The procedure archives the requested period. An archive can contain a maximum of
 
 ### Receipt structure
 
-This chapter describes the receipt structure applicable ot the French market.
+This chapter describes the receipt structure applicable to the French market.
 
 ![](./images/24.png)
 
@@ -87,7 +87,7 @@ A signature block is generated if a cryptographic signature is required. A JSON 
 
 #### Receipt Footer
 
-The receipt footer contains further information regarding the issuing company. The footer provided by the cash register can for example contain the SIRET and/or VAT number of the issuning enterprise.
+The receipt footer contains further information regarding the issuing company. The footer provided by the cash register can for example contain the SIRET and/or VAT number of the issuing enterprise.
 
 There is no legal requirement for the content of the footer, but if the fiskaltrust.Service sends any additional information for this section, it has to be printed/stored by the cash register.
 
